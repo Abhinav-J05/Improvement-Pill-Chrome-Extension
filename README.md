@@ -1,6 +1,6 @@
 # Improvement Pill
 
-<- stills of the Project->
+Screenshots of the browser extension in use.
 
 
 
